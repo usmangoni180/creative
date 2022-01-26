@@ -1,0 +1,423 @@
+
+/*
+====================================
+XXL Screen - Others
+====================================
+*/
+@media screen and (min-width: 1401px) and (max-width: 1700px) {
+
+
+.banner-right {
+    transform: translate(4px,92px);
+
+}
+
+
+}
+
+/*
+====================================
+XL Screen - Others
+====================================
+*/
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+
+.banner-right {
+    transform: translate(4px,92px);
+}
+
+.testimonial-slider {
+    top: 276px;
+    left: 425px;
+
+}
+
+}
+
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.blog-section h2 br, 
+.protfolio-section h2 br, 
+.testimonial-section h2 br,
+.service-section h2 br,
+.hero-cnt h2 br {
+    display: none;
+
+}
+
+.blog-cnt p br, .service-item p br, .hero-cnt p br {
+   display: none; 
+
+}
+
+.testimonial-slider {
+    top: 230px;
+    left: 321px;
+
+}
+
+}
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+.navbar-nav {
+    margin-left: -15px;
+    margin-top: 15px;
+}
+
+
+.navbar {
+    color: #000 !important;
+    padding: 15px 0px;
+    box-shadow: 1px 0px 13px 1px rgba(0,0,0,0.1);
+    z-index: 999;
+
+}
+
+.headar-section {
+   background: #fff;
+   padding-bottom: 0px;
+}
+
+.banner-right {
+    width: 200px;
+    text-align: center;
+    transform: translate(32%,50%);
+}
+
+
+.banner-left br {
+    display: none;
+}
+
+.banner-left h1 {
+    font-size: 48px;
+}
+
+.counter {
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 0px;
+    padding-top: 30px;
+    padding-bottom:30px;
+}
+
+.hero-section {
+    padding: 30px 0px;
+}
+
+.blog-section p.top-text,
+.protfolio-section p.top-text,
+.testimonial-section p.top-text,
+.service-section p.top-text,
+.hero-cnt p.top-text {
+    padding-top: 45px;
+    padding-bottom: 10px;
+
+}
+
+.blog-section h2,
+.protfolio-section h2,
+.testimonial-section h2,
+.service-section h2,
+.hero-cnt h2 {
+    font-size: 42px;
+
+}
+
+.blog-section h2 br, 
+.protfolio-section h2 br, 
+.testimonial-section h2 br,
+.service-section h2 br,
+.hero-cnt h2 br {
+    display: none;
+
+}
+
+.hero-cnt {
+    margin-left: 0px;
+}
+
+.service-section {
+    padding: 15px 0px;
+
+}
+
+.service-item {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+
+.testimonial-slider {
+    display: none;
+}
+
+.main-content {
+    padding-top: 30px;
+
+}
+
+.testimonial-section {
+    padding: 30px 0px;
+}
+
+.protfolio-section {
+    padding-top: 45px;
+    padding-bottom: 0px;
+}
+
+.protfolio-menu {
+    padding-top: 0px;
+}
+
+
+.blog-section {
+    padding: 30px 0px;
+
+}
+
+.blog-item {
+   margin-top: 15px;
+   margin-bottom: 15px;
+
+}
+
+.brand-logo {
+    padding: 40px;
+}
+
+.owl-theme2 .owl-dots .owl-dot span {
+  display: none;
+
+}
+
+.footer-section {
+    padding: 45px 0px;
+    background: #021017;
+    text-align: center;
+}
+
+.blog-cnt p br, .service-item p br, .hero-cnt p br {
+   display: none; 
+
+}
+
+}
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.navbar-nav {
+    margin-left: -15px;
+    margin-top: 15px;
+}
+
+.navbar {
+    color: #000 !important;
+    padding: 15px 0px;
+
+}
+
+.banner-left {
+    padding: 80px 0px;
+
+}
+
+.banner-left h1 {
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+
+.banner-right {
+    display: none;
+
+}
+.headar-section {
+    background: #fff;
+    padding-bottom: 90px;
+
+}
+
+.counter-item {
+	margin-right: 5px;
+	margin-left: 5px;
+    margin-bottom: 20px;
+
+}
+
+.hero-section {
+  padding: 30px 0px;
+
+}
+
+.hero-cnt {
+    margin-left: 0px;
+} 
+
+.blog-section p.top-text,
+.protfolio-section p.top-text,
+.testimonial-section p.top-text,
+.service-section p.top-text,
+.hero-cnt p.top-text {
+
+    padding-top: 45px;
+    padding-bottom: 10px;
+
+}
+
+.blog-section h2,
+.protfolio-section h2,
+.testimonial-section h2,
+.service-section h2,
+.hero-cnt h2 {
+    font-size: 25px;
+    padding-bottom: 15px;
+
+}
+
+.blog-section h2 br, 
+.protfolio-section h2 br, 
+.testimonial-section h2 br,
+.service-section h2 br,
+.hero-cnt h2 br {
+    display: none;
+
+}
+
+.service-item p br,
+ .hero-cnt p br {
+    display: none;
+
+} .hero-cnt a.download-cv {
+    margin-top: 15px;
+
+}
+
+.service-section {
+   padding: 0px;
+
+}
+
+.service-item {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.testimonial-slider {
+    display: none;
+}
+
+.main-content {
+    padding-top: 30px;
+
+}
+
+.testimonial-cnt h4 {
+	padding-top: 20px;
+    font-size: 20px;
+}
+
+.testimonial-section {
+    padding-bottom: 30px;
+}
+
+.protfolio-section {
+    padding: 30px 0px;
+}
+
+.protfolio-menu ul li a {
+    padding-right: 15px;
+    font-size: 12px;
+
+}
+
+.protfolio-menu {
+    padding-top: 0px;
+}
+
+.protfolio-cnt {
+    top: 10px;
+    left: 10px;
+}
+
+.protfolio-rgt {
+    margin-left: 0px;
+
+}
+
+.owl-theme2 .owl-dots .owl-dot span {
+  display: none;
+}
+
+.blog-section {
+    padding: 30px 0px;
+
+}
+
+.blog-section p.top-text {
+    padding-top: 0px;
+    padding-bottom: 10px;
+
+}
+
+
+.blog-item {
+   margin-top: 15px;
+   margin-bottom: 15px;
+
+}
+
+.blog-cnt p br, .service-item p br, .hero-cnt p br {
+   display: none; 
+
+}
+
+.main-content2 {
+    text-align: center;
+
+}
+
+.brand-logo {
+    padding: 30px 0px;
+
+}
+
+.footer-section {
+    padding: 40px 0px;
+    background: #021017;
+    text-align: center;
+}
+
+}
+/* THE END*/
+
+
+
+
+
+
+
+
+
+
+
+
+
